@@ -1,0 +1,2 @@
+let Name = "umair";
+console.log('hello',Name,"would you like to learn some typescript today");
